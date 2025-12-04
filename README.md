@@ -1,6 +1,5 @@
-# Auctions - NestJS Microservices (converted from .NET)
+# Auctions - NestJS Microservices
 
-This package contains the NestJS conversion and per-microservice bootstraps. Use Docker Compose to run separate containers for each service.
 
 Quick start:
 
