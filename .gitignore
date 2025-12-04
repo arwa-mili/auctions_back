@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+pgdata
+mongodata
+.vscode
+node_modules
+
